@@ -11,6 +11,7 @@
 		"url": "git+https://github.com/CreativeBulma/bulma-badge.git"
 	},
 	"license": "MIT",
+	"packageManager": "yarn@4.1.1",
 	"bugs": {
 		"url": "https://github.com/CreativeBulma/bulma-badge/issues"
 	},
