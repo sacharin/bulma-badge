@@ -1,20 +1,16 @@
 {
-	"name": "@creativebulma/bulma-badge",
+	"name": "sacharin/bulma-badge-dart",
 	"description": "Display a badge attached to any kind of element, in different position.",
 	"version": "1.0.1",
-	"homepage": "https://github.com/CreativeBulma/bulma-badge",
 	"main": "./src/sass/index.sass",
 	"style": "./dist/bulma-badge.css",
 	"sass": "./src/sass/index.sass",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/sacharin/bulma-badge.git"
+		"url": "git+https://github.com/sacharin/bulma-badge-dart.git"
 	},
 	"license": "MIT",
 	"packageManager": "yarn@4.1.1",
-	"bugs": {
-		"url": "https://github.com/sacharin/bulma-badge/issues"
-	},
 	"keywords": [
 		"badge",
 		"ui",
