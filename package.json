@@ -8,12 +8,12 @@
 	"sass": "./src/sass/index.sass",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/CreativeBulma/bulma-badge.git"
+		"url": "git+https://github.com/sacharin/bulma-badge.git"
 	},
 	"license": "MIT",
 	"packageManager": "yarn@4.1.1",
 	"bugs": {
-		"url": "https://github.com/CreativeBulma/bulma-badge/issues"
+		"url": "https://github.com/sacharin/bulma-badge/issues"
 	},
 	"keywords": [
 		"badge",
